@@ -7,8 +7,6 @@ WIN_WIDTH = 500
 
 VEL = 5
 
-POP = 100
-
 BIRD_IMGS = [pygame.transform.scale2x(
     pygame.image.load(os.path.join('assets\imgs', 'bird1.png'))), pygame.transform.scale2x(
     pygame.image.load(os.path.join('assets\imgs', 'bird2.png'))), pygame.transform.scale2x(
